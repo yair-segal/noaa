@@ -10,11 +10,11 @@ The single API call takes a station id as input, and returns the matching weathe
 
 ### For getting raw json
 
-Use the following url: http://<host-address>/weather_record?station=US1MISW0005
+Use the following url: http://host-address/weather_record?station=US1MISW0005
 
 ### For getting a Swagger UI view
 
-Use the following url: http://<host-address>/swagger-ui.html
+Use the following url: http://host-address/swagger-ui.html
 
 ## Deploying the application
 
